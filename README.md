@@ -24,41 +24,58 @@ This is my dedicated repository for mastering the core of the web: **HTML5**, **
 
 ---
 *Stay consistent. The best is yet to come.* 🚀
-# 🚀 Day 2: Journey to 2028 | Programming Fundamentals
+# 📅 Day 2: Journey to 2028 | Programming Mastery
 
-## 🌟 Introduction
-Today marks the second day of my structured 30-month roadmap. I am now diving into the core concepts of programming and the essential languages of the web, based on my academic curriculum and personal study plan.
-
----
-
-## 📚 Study Notes: What is Programming?
-
-### 🔍 Definition
-**Programming** is the process of writing instructions (code) for a computer to successfully perform specific tasks. It is the ability to create programs.
-
-### 💻 What is a Program?
-A **Program** is a structured set or sequence of steps/instructions executed in order to accomplish a specific task. 
-* *Examples:* A calculator, a washing machine program, or a travel itinerary.
-
-### ⌨️ Programming Languages
-Computers don't understand ordinary letters; they understand **Special Languages**. There are more than 100 languages, and I am starting with the "Web Trio".
+Today is the second day of my 30-month roadmap. I am building a strong foundation in JavaScript, covering basics, math, variables, and advanced decision-making logic.
 
 ---
 
-## 🌐 The Web Trio (HTML, CSS, JavaScript)
-
-
-
-1. **HTML (HyperText Markup Language):** Used to build the **Framework** and structure. (It's a Markup Language).
-2. **CSS (Cascading Style Sheets):** Used to create the **Appearance** and style. (It's a Stylesheet Language).
-3. **JavaScript:** The **Brain**. It adds logic, interactivity, and behavior. It is the true programming language of the web.
+## 📖 Chapter 1: Introduction to Programming
+Understanding how we talk to computers and the core tools of the web.
+* **Programming:** Writing instructions (code) for a computer to perform specific tasks.
+* **The Web Trio:** 1. **HTML:** The Framework (Structure).
+    2. **CSS:** The Appearance (Style).
+    3. **JavaScript:** The Brain (Logic and behavior).
 
 ---
 
-## 🛠️ Practical Part: JavaScript Basics (The Console)
+## 🧮 Chapter 2: Calculations and Strings
+How computers process math and how to join text with numbers.
+* **Arithmetic Operators:** `+` (Add), `-` (Sub), `*` (Mult), `/` (Div).
+* **Consolidation:** Use the `+` sign to join text and math. 
+* **Crucial Rule:** Always put math formulas in **Parentheses `( )`** when joining with text.
 
-The **Console** is the screen (often a black screen in editors) that helps us see the **Output** (results) of our code.
+---
 
-### My First Code Snippet:
+## 📦 Chapter 3: Variables
+Variables are "boxes" used to store, use, and change data.
+* **Declaring:** Using the keyword `let` to create a variable. (e.g., `let apple;`)
+* **Assigning:** Using the `=` operator to put a value in the box. (e.g., `apple = 10;`)
+* **Reassigning:** Updating the value later (e.g., `fish = 7;`).
+* **Output Rule:** Do **not** use quotes `" "` when printing a variable's value in `console.log`.
+
+---
+
+## ⚖️ Chapter 4: The `if` Statement (Decision Making)
+The `if` statement allows the computer to take a specific path only if a condition is **True**.
+* **Syntax:** `if (condition) { process }`
+* **Assignment vs Equality:**
+    * **`=` (Assignment):** Sets a value to a variable.
+    * **`==` (Equality):** Compares two values.
+* **Logic:** If the condition is False, the code block is **skipped**.
+
+---
+
+## 🛤️ Chapter 5: The `if...else` Statement (Alternative Paths)
+The `if...else` statement provides an alternative path when the first condition is not met.
+
+### 1. Logic:
+* The code inside the `else` block runs **only** if the `if` condition is **False**.
+
+### 2. Syntax:
 ```javascript
-console.log("Hello, World!"); // Printing a message to the console
+if (condition) {
+  // Runs if true
+} else {
+  // Runs if false
+}
