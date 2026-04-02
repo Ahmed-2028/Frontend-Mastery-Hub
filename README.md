@@ -24,10 +24,10 @@ This is my dedicated repository for mastering the core of the web: **HTML5**, **
 
 ---
 *Stay consistent. The best is yet to come.* 🚀
-# 🚀 Day 3: Journey to 2028 | Programming Fundamentals
+# 🚀 Day 2: Journey to 2028 | Programming Fundamentals
 
 ## 🌟 Introduction
-Today marks the third day of my structured 30-month roadmap. I am now diving into the core concepts of programming and the essential languages of the web, based on my academic curriculum and personal study plan.
+Today marks the second day of my structured 30-month roadmap. I am now diving into the core concepts of programming and the essential languages of the web, based on my academic curriculum and personal study plan.
 
 ---
 
