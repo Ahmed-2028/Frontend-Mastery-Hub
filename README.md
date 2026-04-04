@@ -163,3 +163,72 @@ console.log("2. Strict Equality === used for security.");
 console.log("3. Step-by-Step tracing for logic mastery.");
 console.log("================================================");
 console.log("✅ Day 3 Logic Challenges: INTERACTIVE VERSION COMPLETED!");
+// ======================================================
+// 📅 Day 4: JavaScript Practical Journey (Chapters 6 - 10)
+// ======================================================
+console.log("🚀 Starting Practical Part: From Decision Making to Data Structures\n");
+
+// --- 📖 Chapter 6: The If...Else Statement ---
+// [Basic Decision Making]
+console.log("📖 --- Chapter 6: If...Else (Basic) ---");
+let score = 75; 
+
+if (score >= 50) {
+    console.log(`Result: ✅ Student Passed with ${score}%\n`);
+} else {
+    console.log("Result: ❌ Student Failed\n");
+}
+
+// --- 🛡️ Chapter 9: Logical Operators ---
+// [Combining Multiple Conditions: && (AND) & || (OR)]
+console.log("🛡️ --- Chapter 9: Logical Operators ---");
+
+let bill = 4000;
+let items = 3;
+let isVIP = false;
+
+// 12. The Logical AND (&&) - Ampersand
+// All conditions must be True
+if (bill > 3000 && items > 2) {
+    console.log("Discount: ✅ 10% Off Applied! (Both conditions met)");
+}
+
+// 13. The Logical OR (||) - Pipe / Vertical Line
+// At least one condition must be True
+if (bill > 5000 || isVIP) {
+    console.log("Shipping: ✅ Free Shipping Awarded!");
+} else {
+    console.log("Shipping: 🚚 Standard Shipping Fees Apply\n");
+}
+
+// --- 📦 Chapter 10: Arrays ---
+// [Storing Multiple Values in one Variable]
+console.log("📦 --- Chapter 10: Arrays (The Data Container) ---");
+
+// Level 1: Creating & Accessing (The Zero Rule)
+let students = ["Ahmed", "Sara", "Yassin"];
+console.log("Top Students List:", students);
+console.log("First Student (Index 0):", students[0]); 
+
+// Level 2: Editing & Length
+students[1] = "Mona"; // Chapter 10: Modifying index 1
+console.log("Updated List:", students);
+console.log("Total Students in Array:", students.length); 
+
+// --- 💎 The Mastermind: Integrating Ch 6, 9 & 10 ---
+console.log("\n💎 --- The Mastermind: Logic + Operators + Arrays ---");
+
+let inputName = prompt("Enter student name to check record:");
+
+// Using Array Index (Ch 10) + Strict Equality (Ch 6) + Logical OR (Ch 9)
+if (inputName === students[0]) {
+    console.log(`🏆 Result: ${inputName} is the CHAMPION (Rank 1).`);
+} else if (inputName === students[1] || inputName === students[2]) {
+    console.log(`🌟 Result: ${inputName} is in the TOP 3.`);
+} else {
+    console.log("📚 Result: Student not in Top 3. Keep Studying!");
+}
+
+console.log("\n================================================");
+console.log("✅ Chapters 6, 9, & 10: PRACTICAL COMPLETED!");
+console.log("================================================");
