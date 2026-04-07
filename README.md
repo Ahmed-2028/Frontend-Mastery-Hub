@@ -355,10 +355,4 @@ This is a complete personal summary of JavaScript (CH 1-10) in English.
 
 **Note:** This can be uploaded to a private repository on GitHub and later made public for portfolio use.
 */
-// ======================================================
-# 🚀 Frontend Mastery Hub | Ahmed 2028 Journey
-### "Turning logic into beautiful interfaces, step by step."
-
-This repository is the dedicated home for my 30-month strategic roadmap. Here, I document my daily progress, code snippets, and the evolution of my skills in **HTML5**, **CSS3**, and **Modern JavaScript**.
-
----
+// ====================================================
