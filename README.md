@@ -366,5 +366,4 @@ This repository is the dedicated home for my 30-month strategic roadmap. Here, I
 ## 🛠 Today's Progress: Day 5 (HTML Text Mastery)
 *Focus: Mastering Content Structure and Semantic Formatting.*
 
-### 📖 Learning Notes (Chapter 18):
-In today's session, I focused on how to properly "describe" content to the browser using HTML tags, ensuring a clean and accessible s
+
