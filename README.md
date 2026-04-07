@@ -367,13 +367,4 @@ This repository is the dedicated home for my 30-month strategic roadmap. Here, I
 *Focus: Mastering Content Structure and Semantic Formatting.*
 
 ### 📖 Learning Notes (Chapter 18):
-In today's session, I focused on how to properly "describe" content to the browser using HTML tags, ensuring a clean and accessible structure:
-
-1. **Headings Hierarchy:** - Using `<h1>` for the main soul of the page (used once per page).
-   - Using `<h2>` through `<h6>` for sub-sections and minor details.
-2. **Text Flow:** - Using `<p>` for standard paragraphs.
-   - Using `<br>` for intentional line breaks without starting a new paragraph.
-3. **Semantic Emphasis:** - `<strong>` or `<b>`: For high importance and bold weight.
-   - `<em>` or `<i>`: For stressed emphasis and italic style.
-   - `<u>`: For underlined text (used sparingly).
-4. **Visual Separation:** - Using `<hr>` to create thematic breaks between different sections of the page.
+In today's session, I focused on how to properly "describe" content to the browser using HTML tags, ensuring a clean and accessible s
