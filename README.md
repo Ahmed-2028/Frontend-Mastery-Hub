@@ -3,7 +3,7 @@
 
 ---
 
-## 🏛️ My Philosophy (فلسفتي الشخصية)
+## 🏛️ My Philosophy  
 > "I believe that true mastery begins where others left off. Therefore, I build my foundation by learning from the world's leading platforms. To me, excellence is not about consuming information, but about how it is executed and transformed into real-world solutions. My goal is to leverage these resources practically, because the true failure isn't in the learning process, but in settling for mediocre results or stopping before the work is fully developed."
 
 ---
