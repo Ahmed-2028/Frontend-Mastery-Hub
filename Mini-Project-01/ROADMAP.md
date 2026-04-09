@@ -12,3 +12,12 @@
 5. **Commenting Out:** Disabling specific code lines to test or debug.
 
   * **💻 Practical Application:** [View Code in Task1.js](./Daily-Tasks/JAVASCRIPT/task1.js)
+---
+
+### 🚀 Interactive Live Demo
+Don't just read the code—run it, tweak it, and see the results instantly!
+
+> [!TIP]
+> **Click here:** [⚡ Run & Test the Code Live](https://stackblitz.com/edit/js-bwbadudk?file=index.js&devtoolsheight=33)
+
+*Once the link opens, the output will automatically appear in the **Console** section at the bottom.*
