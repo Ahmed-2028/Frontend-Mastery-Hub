@@ -1,5 +1,3 @@
----
-
 ## 📅 Day 01
 ### 📘 Chapter 1: Introduction to Programming & Tools
 
@@ -14,4 +12,3 @@
 5. **Commenting Out:** Disabling specific code lines to test or debug.
 
   * **💻 Practical Application:** [View Code in Task1.js](./Daily-Tasks/JAVASCRIPT/task1.js)
----
