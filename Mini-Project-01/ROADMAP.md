@@ -24,7 +24,7 @@
 Don't just read the code — run it, tweak it, and see the results instantly!
 
 > [!TIP]
-> **Click here:** [⚡ Run & Test the Code Live](https://stackblitz.com/edit/vitejs-vite-1wzkrzwc?file=src%2Fmain.js)
+> **Click here:** [⚡ Run & Test the Code Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d7484-fef8-7fa4-a78a-5895be0a33b4)
 
 *Once the link opens, the output will automatically appear in the **Console** section at the bottom.*
 ---
