@@ -41,3 +41,5 @@ Don't just read the code — run it, tweak it, and see the results instantly!
 5. **Grouping with Parentheses:** Using `()` to control operation priority.
 
 * 💻 **Practical Application:** [View Task 2 Code](./Daily-Tasks/JAVASCRIPT/task2.js)
+> [!TIP]
+> **Click here:** [⚡ Run & Test the Code Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d7484-fef8-7fa4-a78a-5895be0a33b4)
