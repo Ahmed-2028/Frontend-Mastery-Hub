@@ -27,3 +27,17 @@ Don't just read the code — run it, tweak it, and see the results instantly!
 > **Click here:** [⚡ Run & Test the Code Live](https://stackblitz.com/edit/js-bwbadudk?file=index.js&devtoolsheight=33)
 
 *Once the link opens, the output will automatically appear in the **Console** section at the bottom.*
+---
+
+### 📘 Chapter 2: Calculations & Strings
+> **⚠️ Progress Check:**
+> Learning how to make the computer perform math and handle text (Strings). Understanding the difference between raw numbers and text data.
+
+**Topics Covered:**
+1. **Arithmetic Operations:** Using JavaScript as a calculator (+, -, *, /).
+2. **Arithmetic Operators:** Addition `+`, Subtraction `-`, Multiplication `*`, and Division `/`.
+3. **Strings vs. Numbers:** Understanding why `"1+1"` is text, while `1+1` is math.
+4. **String Concatenation:** Connecting text with math results using the `+` sign.
+5. **Grouping with Parentheses:** Using `()` to control operation priority.
+
+* 💻 **Practical Application:** [View Task 2 Code](./Daily-Tasks/JAVASCRIPT/task2.js)
