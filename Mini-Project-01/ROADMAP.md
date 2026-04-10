@@ -74,6 +74,9 @@ console.log(15 * 3);  // What's the result?
    * Double it: `score = score + score;`
 3. **Run the Code:** See if the Console shows **100**!
 
+### 🛠️ Hands-on Work
+* 💻 **Practical Application:** [View Source Code (Task1.js)]()
+
 > [!TIP]
 > **Click here to start:** [⚡ Run Chapter 3 Interactive Demo](رابط_المشروع_الجديد)
 
