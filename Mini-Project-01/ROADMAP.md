@@ -20,7 +20,7 @@
 > Status: **Completed** ✅
 * 📜 **Key Rules:** Declaration, Assignment, Reassignment, and Values.
 * 💻 **Practical Application:** [View Task 3 Code](https://github.com/Ahmed-2028/Frontend-Mastery-Hub/blob/main/Mini-Project-01/Daily-Tasks/task3.js)
-* ⚡ **Interactive Demo:** [Run Chapter 3 Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d7484-fef8-7fa4-a78a-5895be0a33b4)
+* ⚡ **Interactive Demo:** [Run Chapter 3 Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d76c9-b62e-7907-ad1e-20445f2c17f1)
 
 ---
 
