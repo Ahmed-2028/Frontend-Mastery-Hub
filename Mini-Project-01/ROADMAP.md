@@ -59,3 +59,28 @@
 **Level 1: Basic Math**
 ```javascript
 console.log(15 * 3);  // What's the result?
+### 📘 Chapter 3: Variables Mastery
+> **Concept:** Variables are the foundation of storing data. Think of them as labeled boxes where you can swap the contents at any time.
+
+---
+
+### 📱 **Interactive Playground & Challenge**
+**Ready to test your logic?**
+
+1. **The Challenge:** Use the link below to reach exactly **100** in the `score` variable.
+2. **Setup:**
+   * Create a variable: `let score = 0;`
+   * Add to it: `score = score + 50;`
+   * Double it: `score = score + score;`
+3. **Run the Code:** See if the Console shows **100**!
+
+> [!TIP]
+> **Click here to start:** [⚡ Run Chapter 3 Interactive Demo](رابط_المشروع_الجديد)
+
+---
+
+### 📝 Quick Summary for Review:
+* **`let name;`** ⮕ Creating the box.
+* **`name = "Ahmed";`** ⮕ Putting data in.
+* **`console.log(name);`** ⮕ Reading what's inside.
+* **`console.log("name");`** ⮕ Just printing the word.
