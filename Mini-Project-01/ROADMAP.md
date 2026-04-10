@@ -75,7 +75,7 @@ console.log(15 * 3);  // What's the result?
 
 ---
 
-* 💻 **Practical Application:** [View Source Code (Task3.js)](/Daily-Tasks/JAVASCRIPT/Mini-Project-01/task3.js)
+* 💻 **Practical Application:** [View Source Code (Task3.js)](./Daily-Tasks/JAVASCRIPT/task3.js)
 
 > [!TIP]
 > **Interactive Playground & Challenge**
