@@ -1,4 +1,4 @@
-## 📅 Day 01
+ ## 📅 Day 01
 ### 📘 Chapter 1: Introduction to Programming & Tools
 
 > **⚠️ Preparation Phase:**
@@ -29,7 +29,11 @@
 1. **Open the link above** → Console appears automatically
 2. **Edit the numbers** (Example: change `1+1` to `5*3`)
 3. **Hit Run** → See results instantly!
-4. **Challenge:** Write your name + age in Console!
+
+> [!TIP|label:💡 Level 1 Hint]
+> ```javascript
+> console.log("My first program: Hello Ahmed!");
+> ```
 
 *Results appear in **Console** below immediately! 🎯*
 
@@ -51,9 +55,7 @@
 > [!TIP]
 > **Click here:** [⚡ Run & Test the Code Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d7484-fef8-7fa4-a78a-5895be0a33b4)
 
-### 📱 **Interactive Calculator**
-**Test the Calculator:**
-1. Change `"1+1"` to `10*5`
-2. Try `"Ahmed"` + `2028`
-3. **Hit Run** → Watch the magic! ✨
-4. **Challenge:** Calculate your age in 2030!
+### 📱 **Interactive Calculator Challenges**
+**Level 1: Basic Math**
+```javascript
+console.log(15 * 3);  // What's the result?
