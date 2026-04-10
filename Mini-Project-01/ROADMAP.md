@@ -12,7 +12,7 @@
 > Status: **Completed** ✅
 * 📜 **Topics:** Math operations (+, -, *, /) and text concatenation.
 * 💻 **Practical Application:** [View Task 2 Code](./Daily-Tasks/JAVASCRIPT/task2.js)
-* ⚡ **Interactive Demo:** [Run Chapter 2 Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/LYvMBda)
+* ⚡ **Interactive Demo:** [Run Chapter 2 Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d7484-fef8-7fa4-a78a-5895be0a33b4)
 
 ---
 
