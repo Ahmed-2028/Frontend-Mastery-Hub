@@ -24,7 +24,7 @@
 Don't just read the code — run it, tweak it, and see the results instantly!
 
 > [!TIP]
-> **Click here:** [⚡ Run & Test the Code Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d7484-fef8-7fa4-a78a-5895be0a33b4)
+> **Click here:** [⚡ Run & Test the Code Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d75ad-c9a1-74da-9785-7916ba9acd2e)
 
 *Once the link opens, the output will automatically appear in the **Console** section at the bottom.*
 ---
