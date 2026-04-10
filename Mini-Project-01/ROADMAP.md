@@ -42,3 +42,192 @@
 * 🔗 **Source Code:** [View Task 3 Code](https://github.com/Ahmed-2028/Frontend-Mastery-Hub/blob/main/Mini-Project-01/Daily-Tasks/task3.js)
 
 ---
+ Question 1
+
+1. Write the sentence "Write the program on the line below" as a comment.
+
+2. Print "Good evening" in the console.
+
+Copied text: Good evening
+* ? **Interactive Demo:** [Run Answer to Question 1 Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d797d-1ed1-73d9-af80-95c91354590e)
+
+Question 2
+
+Create your program as follows:
+
+1. Print "Bread and coffee for 350 codycoins" in the console.
+
+(Note that the number 350 should be calculated by the computer as 200 + 150 (the price of the bread and coffee.)
+
+* ? **Interactive Demo:** [Run Answer to Question 2 Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d7995-870e-75fc-9a05-2bd80427a528)
+
+Question 3
+
+Create your program as follows:
+
+1. Declare the variable num.
+
+2. Assign the value 2 to num.
+
+3. Assign the value of num plus 8.
+
+4. Print the value of num in the console.
+
+ ? **Interactive Demo:** [Run Answer to Question 3 Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d7998-1fc1-7806-829e-b9cd851e1522)
+
+ ## 🧠 Part 2: Multiple Choice Questions (MCQ) - Answer Key ✅
+ **1 - Which symbol is used to write a "Comment" in JavaScript?**
+
+A) ??
+
+B) ==
+
+C) &&
+
+D) //
+
+Correct Answer:
+D) //
+
+**2 - Which tool do developers use to test code and see results?**
+
+A) Editor
+
+B) RAM
+
+C) Console
+
+D) Terminal
+
+Correct Answer:
+C) Console
+
+**3 - Which language is responsible for adding "Interactivity" to a website?**
+
+A) HTML
+
+B) CSS
+
+C) JavaScript
+
+D) SQL
+
+Correct Answer:
+C) JavaScript
+
+**4 - Joining two strings together using the + operator is called:**
+
+A) Concatenation
+
+B) Assignment
+
+C) Declaration
+
+D) Calculation
+
+Correct Answer:
+A) Concatenation
+
+**5 - What is the output of console.log("5" + "5");?**
+
+A) 10
+
+B) 5
+
+C) 55
+
+D) Error
+
+Correct Answer:
+C) 55
+
+**6 - To declare a variable that can be reassigned later, we use:**
+
+A) fixed
+
+B) let
+
+C) const
+
+D) log
+
+Correct Answer:
+B) let
+
+**7 - Giving a value to a variable using the = sign is known as:**
+
+A) Declaration
+
+B) Assignment
+
+C) Concatenation
+
+D) Initiation
+
+Correct Answer:
+B) Assignment
+
+**8 - Variables store data in the computer's temporary memory called:**
+
+A) Hard Disk
+
+B) CPU
+
+C) Motherboard
+
+D) RAM
+
+Correct Answer:
+D) RAM
+
+**9 - The primary role of HTML in Frontend development is:**
+
+A) Styling the page
+
+B) Structuring the content
+
+C) Adding logic
+
+D) Storing data
+
+Correct Answer:
+B) Structuring the content
+
+**10 - A "Comment" is considered text written ________ the program execution.**
+
+A) Inside
+
+B) Instead of
+
+C) Outside (as notes)
+
+D) During
+
+Correct Answer:
+C) Outside (as notes)
+
+**11 - What is the result of console.log(10 * 2);?**
+
+A) 102
+
+B) 12
+
+C) 20
+
+D) 10*2
+
+Correct Answer:
+C) 20
+
+**12 - To distinguish a "Literal String" from a variable, we must wrap it in:**
+
+A) Parentheses ( )
+
+B) Brackets [ ]
+
+C) Slashes //
+
+D) Quotes " "
+
+Correct Answer:
+D) Quotes " "
