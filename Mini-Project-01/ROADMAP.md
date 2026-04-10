@@ -4,7 +4,7 @@
 > Status: **Completed** ✅
 * 📜 **Concept:** Understanding how computers follow instructions.
 * 💻 **Practical Code:** [View Task 1 Code](./Daily-Tasks/JAVASCRIPT/task1.js)
-* ⚡ **Interactive Demo:** [Run Chapter 1 Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/eYXqbWv)
+* ⚡ **Interactive Demo:** [Run Chapter 1 Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d75ad-c9a1-74da-9785-7916ba9acd2e)
 
 ---
 
