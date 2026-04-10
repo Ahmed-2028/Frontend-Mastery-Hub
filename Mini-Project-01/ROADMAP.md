@@ -21,12 +21,18 @@
 ---
 
 ### 🚀 Interactive Live Demo
-Don't just read the code — run it, tweak it, and see the results instantly!
-
 > [!TIP]
 > **Click here:** [⚡ Run & Test the Code Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d75ad-c9a1-74da-9785-7916ba9acd2e)
 
-*Once the link opens, the output will automatically appear in the **Console** section at the bottom.*
+### 📱 **Interactive Application**
+**Try it yourself NOW:**
+1. **Open the link above** → Console appears automatically
+2. **Edit the numbers** (Example: change `1+1` to `5*3`)
+3. **Hit Run** → See results instantly!
+4. **Challenge:** Write your name + age in Console!
+
+*Results appear in **Console** below immediately! 🎯*
+
 ---
 
 ### 📘 Chapter 2: Calculations & Strings
@@ -41,5 +47,13 @@ Don't just read the code — run it, tweak it, and see the results instantly!
 5. **Grouping with Parentheses:** Using `()` to control operation priority.
 
 * 💻 **Practical Application:** [View Task 2 Code](./Daily-Tasks/JAVASCRIPT/task2.js)
+
 > [!TIP]
 > **Click here:** [⚡ Run & Test the Code Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d7484-fef8-7fa4-a78a-5895be0a33b4)
+
+### 📱 **Interactive Calculator**
+**Test the Calculator:**
+1. Change `"1+1"` to `10*5`
+2. Try `"Ahmed"` + `2028`
+3. **Hit Run** → Watch the magic! ✨
+4. **Challenge:** Calculate your age in 2030!
