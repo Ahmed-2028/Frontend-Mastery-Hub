@@ -218,7 +218,7 @@ These operators allow us to combine multiple conditions within a single `if` sta
 | **10** | What does the `<=` operator mean? | A) Greater than/equal <br> B) Less than/equal <br> C) Not equal <br> D) Equal | **B) Less than or equal to** |
 | **11** | The `\|\|` operator is also known as: | A) Ampersand <br> B) Vertical line / Pipe <br> C) Equality <br> D) Assignment | **B) Vertical line / Pipe** |
 | **12** | If `score = 40`, what will `(score >= 50)` return? | A) true <br> B) false <br> C) undefined <br> D) error | **B) false** |
-# Day 3
+ # Day 3
 
 ---
 
@@ -234,6 +234,8 @@ In programming, organization is key when dealing with repetitive code or complex
 * **Concept:** It is used to repeat a block of code a specific number of times instead of rewriting it manually (which is considered bad practice).
 * **Formula:** The `for` loop consists of three main parts: (initialization; condition; update).
 * **Mechanism:** A counter is initialized, and the loop continues to execute as long as the specified condition remains true.
+
+⚡ **Interactive Demo:** [Run Chapter 7 Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d7ca1-d2a5-76af-a386-59328d34bffb)
 
 ---
 
@@ -252,6 +254,8 @@ JavaScript includes pre-written functions to perform common mathematical tasks:
 
 3. **Math.min():** * It finds and returns the **lowest value** in a list of numbers.
    * *Example:* `Math.min(5, 10, 50)` returns `5`.
+
+⚡ **Interactive Demo:** [Run Chapter 8 Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d7ca9-e885-7646-a827-65dfba11866e)
 
 ---
 
@@ -277,6 +281,8 @@ To create your own function, it must have four parts:
 * **Important Rules:** * Function names **cannot** contain dots.
   * JavaScript is **case-sensitive** (Example: `Math` is not the same as `math`).
 
+⚡ **Interactive Demo:** [Run Chapter 9 Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d7cac-ec32-78a7-8a04-d6a847337178)
+
 ---
 
 ## 🔟 Chapter Ten: Data Types
@@ -297,3 +303,27 @@ The computer must know the type of data it is processing to behave correctly.
 3. **Type Conversion:**
    * **Number():** Used to convert a string value into a numerical value.
    * **String():** Used to convert a numerical value into a string.
+
+⚡ **Interactive Demo:** [Run Chapter 10 Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d7cae-6093-78e8-8732-980c494b1e2c)
+
+---
+
+## 1️⃣1️⃣ Chapter 11: Arrays
+
+### 1. What is an Array?
+An array is a special variable that can hold more than one value at a time. It allows you to store a list of items under a single variable name, making it easier to manage related data.
+
+### 2. Array Practice (1)
+You can create an array by placing the values inside square brackets `[]`, separated by commas. To access a specific item within the array, you use its index number. 
+* **Note:** In JavaScript, array indexing always starts from **0**.
+
+### 3. Arrays and For Loops
+Arrays and `for loops` work perfectly together. You can use a loop to iterate through each element in an array and perform a specific action or calculation on each item automatically.
+
+### 4. Array Practice (2)
+By combining loops and arrays, you can efficiently manage and manipulate large lists of data. This eliminates the need to write repetitive code for each individual item, which is a core principle of clean programming.
+
+### 5. Array Length
+The `.length` property is used to return the total number of elements currently stored in an array. This property is essential for determining how many times a loop should run to cover the entire list.
+
+⚡ **Interactive Demo:** [Run Chapter 11 Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d7cb0-d873-7d6d-bd7a-ce33e70241ba)
