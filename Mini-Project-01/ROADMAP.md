@@ -330,5 +330,5 @@ By combining loops and arrays, you can efficiently manage and manipulate large l
 ### 5. Array Length
 The `.length` property is used to return the total number of elements currently stored in an array. This property is essential for determining how many times a loop should run to cover the entire list.
 
-⚡ **Interactive Demo:** [Run Chapter 11 Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d7cb0-d873-7d6d-bd7a-ce33e70241ba)
+⚡ **Interactive Demo:** [Run Chapter 11 Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d7cd9-d73a-7c10-a6e8-8df1829e2c59)
 🔗 **Source Code:** [Link to Demo Explanation 11](https://github.com/Ahmed-2028/Frontend-Mastery-Hub/blob/main/Mini-Project-01/Daily-Tasks/JAVASCRIPT/task11.js)
