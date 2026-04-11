@@ -218,3 +218,82 @@ These operators allow us to combine multiple conditions within a single `if` sta
 | **10** | What does the `<=` operator mean? | A) Greater than/equal <br> B) Less than/equal <br> C) Not equal <br> D) Equal | **B) Less than or equal to** |
 | **11** | The `\|\|` operator is also known as: | A) Ampersand <br> B) Vertical line / Pipe <br> C) Equality <br> D) Assignment | **B) Vertical line / Pipe** |
 | **12** | If `score = 40`, what will `(score >= 50)` return? | A) true <br> B) false <br> C) undefined <br> D) error | **B) false** |
+# Day 3
+
+---
+
+## 7️⃣ Chapter Seven: Iterative Operation
+In programming, organization is key when dealing with repetitive code or complex logic.
+
+### 1. Using Line Breaks for Readability (Newline)
+* **Readability:** Long lines of code (like complex `if` statements) are hard to follow.
+* **Organization:** We use "Line Breaks" to split the code into multiple lines, making it cleaner and easier to understand.
+* **Indentation:** When starting a new line after an opening curly brace `{`, indentation is added automatically to make the structure clear.
+
+### 2. The For Loop
+* **Concept:** It is used to repeat a block of code a specific number of times instead of rewriting it manually (which is considered bad practice).
+* **Formula:** The `for` loop consists of three main parts: (initialization; condition; update).
+* **Mechanism:** A counter is initialized, and the loop continues to execute as long as the specified condition remains true.
+
+---
+
+## 8️⃣ Chapter Eight: Functions
+A function is a block of code designed to perform a specific task. Instead of repeating the same code, we define it once and "call" it whenever needed.
+
+### Built-in Functions (Math Object)
+JavaScript includes pre-written functions to perform common mathematical tasks:
+
+1. **Math.round():** * It rounds a number to the nearest integer.
+   * If the fraction is **0.5 or greater**, it rounds up. Otherwise, it rounds down.
+   * *Example:* `9.6` becomes `10`, and `10.3` becomes `10`.
+
+2. **Math.max():** * It finds and returns the **highest value** in a list of numbers.
+   * *Example:* `Math.max(5, 10, 50)` returns `50`.
+
+3. **Math.min():** * It finds and returns the **lowest value** in a list of numbers.
+   * *Example:* `Math.min(5, 10, 50)` returns `5`.
+
+---
+
+## 9️⃣ Chapter Nine: Functions [2]
+Advanced built-in functions and creating custom logic.
+
+### 1. Advanced Built-in Functions
+1. **Math.floor():** * It rounds a number **down** to the nearest integer.
+   * It effectively removes (truncates) the decimal part of a number.
+   * *Example:* `7.7` becomes `7`.
+
+2. **Math.random():** * It returns a random decimal number between **0 (included)** and **1 (not included)**.
+   * **Scaling:** To increase the range (e.g., to get numbers between 0 and 9), you can multiply the function by 10.
+   * **Combining:** You can combine `Math.floor()` and `Math.random()` to get a random whole number.
+
+### 2. Defining a Custom Function
+To create your own function, it must have four parts:
+1. **Function Keyword:** The `function` word to start the definition.
+2. **Input (Arguments):** The data you pass into the function inside parentheses `()`.
+3. **Process (Body):** The actual code inside curly braces `{}` that performs the task.
+4. **Output (Return Value):** The final result sent back using the `return` keyword.
+
+* **Important Rules:** * Function names **cannot** contain dots.
+  * JavaScript is **case-sensitive** (Example: `Math` is not the same as `math`).
+
+---
+
+## 🔟 Chapter Ten: Data Types
+The computer must know the type of data it is processing to behave correctly.
+
+### 1. Built-in Data Types
+* **Strings (Text):** Must be enclosed in double quotes (e.g., `"1000"`).
+* **Numbers:** Written directly without quotes (e.g., `1000`) and are used for calculations.
+
+### 2. Data Type Differences
+* Operators behave differently based on the data type; adding numbers performs arithmetic, while adding strings performs **Concatenation** (joining them together).
+
+### 3. Identifying & Converting Types
+1. **typeof operator:** Used to determine the data type of a value (returns "string" or "number").
+2. **Comparison (== vs ===):**
+   * `==` (Equality): Checks only the **value**.
+   * `===` (Strict Equality): Checks both the **value** and the **data type**. (Generally recommended).
+3. **Type Conversion:**
+   * **Number():** Used to convert a string value into a numerical value.
+   * **String():** Used to convert a numerical value into a string.
