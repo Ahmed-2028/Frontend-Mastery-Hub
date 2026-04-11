@@ -218,7 +218,7 @@ These operators allow us to combine multiple conditions within a single `if` sta
 | **10** | What does the `<=` operator mean? | A) Greater than/equal <br> B) Less than/equal <br> C) Not equal <br> D) Equal | **B) Less than or equal to** |
 | **11** | The `\|\|` operator is also known as: | A) Ampersand <br> B) Vertical line / Pipe <br> C) Equality <br> D) Assignment | **B) Vertical line / Pipe** |
 | **12** | If `score = 40`, what will `(score >= 50)` return? | A) true <br> B) false <br> C) undefined <br> D) error | **B) false** |
- # Day 3
+  # Day 3
 
 ---
 
@@ -236,6 +236,7 @@ In programming, organization is key when dealing with repetitive code or complex
 * **Mechanism:** A counter is initialized, and the loop continues to execute as long as the specified condition remains true.
 
 ⚡ **Interactive Demo:** [Run Chapter 7 Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d7ca1-d2a5-76af-a386-59328d34bffb)
+🔗 **Source Code:** [Link to Demo Explanation 7](https://github.com/Ahmed-2028/Frontend-Mastery-Hub/blob/main/Mini-Project-01/Daily-Tasks/JAVASCRIPT/task7.js)
 
 ---
 
@@ -256,6 +257,7 @@ JavaScript includes pre-written functions to perform common mathematical tasks:
    * *Example:* `Math.min(5, 10, 50)` returns `5`.
 
 ⚡ **Interactive Demo:** [Run Chapter 8 Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d7ca9-e885-7646-a827-65dfba11866e)
+🔗 **Source Code:** [Link to Demo Explanation 8](https://github.com/Ahmed-2028/Frontend-Mastery-Hub/blob/main/Mini-Project-01/Daily-Tasks/JAVASCRIPT/task8.js)
 
 ---
 
@@ -282,6 +284,7 @@ To create your own function, it must have four parts:
   * JavaScript is **case-sensitive** (Example: `Math` is not the same as `math`).
 
 ⚡ **Interactive Demo:** [Run Chapter 9 Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d7cac-ec32-78a7-8a04-d6a847337178)
+🔗 **Source Code:** [Link to Demo Explanation 9](https://github.com/Ahmed-2028/Frontend-Mastery-Hub/blob/main/Mini-Project-01/Daily-Tasks/JAVASCRIPT/task9.js)
 
 ---
 
@@ -305,6 +308,7 @@ The computer must know the type of data it is processing to behave correctly.
    * **String():** Used to convert a numerical value into a string.
 
 ⚡ **Interactive Demo:** [Run Chapter 10 Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d7cae-6093-78e8-8732-980c494b1e2c)
+🔗 **Source Code:** [Link to Demo Explanation 10](https://github.com/Ahmed-2028/Frontend-Mastery-Hub/blob/main/Mini-Project-01/Daily-Tasks/JAVASCRIPT/task10.js)
 
 ---
 
@@ -327,3 +331,4 @@ By combining loops and arrays, you can efficiently manage and manipulate large l
 The `.length` property is used to return the total number of elements currently stored in an array. This property is essential for determining how many times a loop should run to cover the entire list.
 
 ⚡ **Interactive Demo:** [Run Chapter 11 Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d7cb0-d873-7d6d-bd7a-ce33e70241ba)
+🔗 **Source Code:** [Link to Demo Explanation 11](https://github.com/Ahmed-2028/Frontend-Mastery-Hub/blob/main/Mini-Project-01/Daily-Tasks/JAVASCRIPT/task11.js)
