@@ -40,198 +40,67 @@
 * ⚡ **Interactive Demo:** [Run Chapter 3 Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d76c9-b62e-7907-ad1e-20445f2c17f1)
 * 💻 **Practical Code Explanation:** The code illustrates the variable lifecycle from declaration using `let`, storing the initial value, and then updating it (Reassignment). It emphasizes the core difference between a variable and a literal string.
 * 🔗 **Source Code:** [Link to Demo Explanation 3](https://github.com/Ahmed-2028/Frontend-Mastery-Hub/blob/main/Mini-Project-01/Daily-Tasks/JAVASCRIPT/task3.js)
----------------------------------
-##Review of Chapters 1, 2, and 3
----------------------------------
- Question 1
+ # Review of Chapters 4, 5, and 6
 
-1. Write the sentence "Write the program on the line below" as a comment.
+---
 
-2. Print "Good evening" in the console.
+## 📝 Part 1: Practical Questions
 
-Copied text: Good evening
-* ? **Interactive Demo:** [Run Answer to Question 1 Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d797d-1ed1-73d9-af80-95c91354590e)
+### Question 1
+1. Declare the variable `science` and assign it the value `100` (in one line).
+2. If the value of `science` is `100`, display `"The reward is a cake"`.
+3. Display `"No reward"` if the condition is not met.
 
-Question 2
+* **Copied text:** `The reward is a cake`
+* 🚀 **Interactive Demo:** [Run Answer to Question 1 Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d7a82-fdd5-7994-9b30-295771f15979)
 
+---
+
+### Question 2
 Create your program as follows:
+1. Display `"Homework"` if the variable `test` is less than or equal to `50`.
+2. Otherwise, display `"No homework"`.
 
-1. Print "Bread and coffee for 350 codycoins" in the console.
+* **Copied text:** `Homework`
+* 🚀 **Interactive Demo:** [Run Answer to Question 2 Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d7a87-28fd-7f5c-8771-d06e006783d7)
 
-(Note that the number 350 should be calculated by the computer as 200 + 150 (the price of the bread and coffee.)
+---
 
-* ? **Interactive Demo:** [Run Answer to Question 2 Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d7995-870e-75fc-9a05-2bd80427a528)
-
-Question 3
-
+### Question 3
 Create your program as follows:
-
-1. Declare the variable num.
-
-2. Assign the value 2 to num.
-
-3. Assign the value of num plus 8.
-
-4. Print the value of num in the console.
-
- ? **Interactive Demo:** [Run Answer to Question 3 Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d7998-1fc1-7806-829e-b9cd851e1522)
-
- ## 🧠 Part 2: Multiple Choice Questions (MCQ) - Answer Key ✅
- **1 - Which symbol is used to write a "Comment" in JavaScript?**
-
-A) ??
-
-B) ==
-
-C) &&
-
-D) //
-
-Correct Answer:
-D) //
-
-**2 - Which tool do developers use to test code and see results?**
-
-A) Editor
-
-B) RAM
-
-C) Console
-
-D) Terminal
-
-Correct Answer:
-C) Console
-
-**3 - Which language is responsible for adding "Interactivity" to a website?**
-
-A) HTML
-
-B) CSS
-
-C) JavaScript
-
-D) SQL
-
-Correct Answer:
-C) JavaScript
-
-**4 - Joining two strings together using the + operator is called:**
-
-A) Concatenation
-
-B) Assignment
-
-C) Declaration
-
-D) Calculation
-
-Correct Answer:
-A) Concatenation
-
-**5 - What is the output of console.log("5" + "5");?**
-
-A) 10
-
-B) 5
-
-C) 55
-
-D) Error
-
-Correct Answer:
-C) 55
-
-**6 - To declare a variable that can be reassigned later, we use:**
-
-A) fixed
-
-B) let
-
-C) const
-
-D) log
-
-Correct Answer:
-B) let
-
-**7 - Giving a value to a variable using the = sign is known as:**
-
-A) Declaration
-
-B) Assignment
-
-C) Concatenation
-
-D) Initiation
-
-Correct Answer:
-B) Assignment
-
-**8 - Variables store data in the computer's temporary memory called:**
-
-A) Hard Disk
-
-B) CPU
-
-C) Motherboard
-
-D) RAM
-
-Correct Answer:
-D) RAM
-
-**9 - The primary role of HTML in Frontend development is:**
-
-A) Styling the page
-
-B) Structuring the content
-
-C) Adding logic
-
-D) Storing data
-
-Correct Answer:
-B) Structuring the content
-
-**10 - A "Comment" is considered text written ________ the program execution.**
-
-A) Inside
-
-B) Instead of
-
-C) Outside (as notes)
-
-D) During
-
-Correct Answer:
-C) Outside (as notes)
-
-**11 - What is the result of console.log(10 * 2);?**
-
-A) 102
-
-B) 12
-
-C) 20
-
-D) 10*2
-
-Correct Answer:
-C) 20
-
-**12 - To distinguish a "Literal String" from a variable, we must wrap it in:**
-
-A) Parentheses ( )
-
-B) Brackets [ ]
-
-C) Slashes //
-
-D) Quotes " "
-
-Correct Answer:
-D) Quotes " "
+1. Declare the variable `test` and assign it the value `77`.
+2. If `test` equals `100`, display `"Perfect score"`.
+3. Else if `test` is greater than or equal to `75`, display `"Pass"`.
+4. If no conditions are met, display `"Make-up exam"`.
+
+* **Copied text:** `Pass`
+* 🚀 **Interactive Demo:** [Run Answer to Question 3 Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d7a88-2e60-78af-9683-f096f935c2b6)
+
+---
+
+### Question 4 (Logic Check)
+1. Verify logical conditions using `&&` and `||` operators.
+
+* 🚀 **Interactive Demo:** [Run Answer to Question 4 Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d7a8a-817c-7f3f-9dff-6de271427ce7)
+
+---
+
+## 🧠 Part 2: Multiple Choice Questions (MCQ)
+
+| # | Question | Options | Correct Answer |
+|---|----------|---------|----------------|
+| **1** | Which symbol is used to assign a value to a variable? | A) `==` <br> B) `&&` <br> C) `=` <br> D) `\|\|` | **D) =** |
+| **2** | To check if two values are equal, we use: | A) `if` <br> B) `==` <br> C) `=` <br> D) `else` | **B) ==** |
+| **3** | The `if` statement executes the code only if the condition is: | A) False <br> B) Null <br> C) True <br> D) Empty | **C) True** |
+| **4** | If the `if` condition is false, which block of code runs as an alternative? | A) `console.log` <br> B) `if else` <br> C) `else` <br> D) `&&` | **C) else** |
+| **5** | Which operator is called the "Ampersand"? | A) `\|\|` <br> B) `&&` <br> C) `==` <br> D) `>=` | **B) &&** |
+| **6** | In an `OR (\|\|)` operation, the entire expression is true if: | A) All conditions are true <br> B) No conditions are true <br> C) At least one condition is true <br> D) Only the first condition is false | **C) At least one condition is true** |
+| **7** | Which of these is the correct formula for an `if` statement? | A) `if {condition} (process)` <br> B) `if (condition) {process}` <br> C) `if (process) {condition}` <br> D) `if {process} (condition)` | **B) if (condition) {process}** |
+| **8** | If we want to check multiple conditions in sequence, we use: | A) `else` <br> B) `if... else if... else` <br> C) `\|\|` <br> D) `&&` | **B) if... else if... else** |
+| **9** | The logical operator `&&` returns true only if: | A) Every single condition is met <br> B) One condition is met <br> C) All conditions are false <br> D) It is used with `else` | **A) Every single condition is met** |
+| **10** | What does the `<=` operator mean? | A) Greater than or equal to <br> B) Less than or equal to <br> C) Not equal to <br> D) Equal to | **B) Less than or equal to** |
+| **11** | The `\|\|` operator is also known as: | A) Ampersand <br> B) Vertical line / Pipe <br> C) Equality operator <br> D) Assignment operator | **B) Vertical line / Pipe** |
+| **12** | If `score = 40`, what will `(score >= 50)` return? | A) true <br> B) false <br> C) undefined <br> D) error | **B) false** |
 # Day Two
 
 ---
