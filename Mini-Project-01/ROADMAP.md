@@ -79,7 +79,7 @@ Create your program as follows:
  ## 🧠 Part 2: Multiple Choice Questions (MCQ) - Answer Key ✅
  **1 - Which symbol is used to write a "Comment" in JavaScript?**
 
-A) ??
+*A) ??*
 
 B) ==
 
