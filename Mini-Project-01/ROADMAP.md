@@ -270,6 +270,9 @@ When we need alternative paths in a program, we use the `else` statement or mult
 * `<=` : Less than or equal to.
 * 
 * ⚡ **Interactive Demo:** [Run Chapter 5 Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d7a05-2ff2-74f6-b410-d5bf5714ae6d)
+* 
+* * 🔗 **Source Code:** [Link to Demo Explanation 1](https://github.com/Ahmed-2028/Frontend-Mastery-Hub/new/main/Mini-Project-01/Daily-Tasks/JAVASCRIPT)
+
 ---
 
 ## 6️⃣ Chapter Six: Logical Operators
@@ -285,3 +288,5 @@ These operators allow us to combine multiple conditions within a single `if` sta
 * The condition is met if **at least one** of the connected conditions is true.
 * The entire expression is true if any of the conditions are satisfied.
 * * ⚡ **Interactive Demo:** [Run Chapter 6 Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d7a06-ef5e-79df-a9a5-685c776a89c9)
+*
+* 🔗 **Source Code:** [Link to Demo Explanation 1](https://github.com/Ahmed-2028/Frontend-Mastery-Hub/new/main/Mini-Project-01/Daily-Tasks/JAVASCRIPT)
