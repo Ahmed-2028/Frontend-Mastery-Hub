@@ -14,7 +14,7 @@
   6. **Comments:** The `//` symbol is used to write comments; these are notes left by the programmer for themselves or others, and they are not executed by the program (Comments are outside the program to leave notes).
 * ⚡ **Interactive Demo:** [Run Chapter 1 Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d75ad-c9a1-74da-9785-7916ba9acd2e)
 * 💻 **Practical Code Explanation:** The code demonstrates the `alert()` function, which displays a pop-up window to the user. It is the fundamental way to start interacting with the user in JavaScript.
-* 🔗 **Source Code:** [View Task 1 Code](./Daily-Tasks/JAVASCRIPT/task1.js)
+* 🔗 **Source Code:** [Link to Demo Explanation 1](./Daily-Tasks/JAVASCRIPT/task1.js)
 
 ---
 
@@ -27,7 +27,7 @@
   4. **Concatenation [2]:** Operators behave differently based on the data type; adding numbers performs calculations, while adding strings joins them (Concatenation).
 * ⚡ **Interactive Demo:** [Run Chapter 2 Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d7484-fef8-7fa4-a78a-5895be0a33b4)
 * 💻 **Practical Code Explanation:** This application applies basic mathematical operators and demonstrates practically how strings are merged to form complete messages using the plus (+) operator.
-* 🔗 **Source Code:** [View Task 2 Code](./Daily-Tasks/JAVASCRIPT/task2.js)
+* 🔗 **Source Code:** [Link to Demo Explanation 2](./Daily-Tasks/JAVASCRIPT/task2.js)
 
 ---
 
@@ -39,7 +39,7 @@
   3. **Training on Variables:** A variable is a reserved space in the Random Access Memory (RAM) to store data that can be called or modified during program execution.
 * ⚡ **Interactive Demo:** [Run Chapter 3 Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d76c9-b62e-7907-ad1e-20445f2c17f1)
 * 💻 **Practical Code Explanation:** The code illustrates the variable lifecycle from declaration using `let`, storing the initial value, and then updating it (Reassignment). It emphasizes the core difference between a variable and a literal string.
-* 🔗 **Source Code:** [View Task 3 Code](https://github.com/Ahmed-2028/Frontend-Mastery-Hub/blob/main/Mini-Project-01/Daily-Tasks/task3.js)
+* 🔗 **Source Code:** [Link to Demo Explanation 3](https://github.com/Ahmed-2028/Frontend-Mastery-Hub/blob/main/Mini-Project-01/Daily-Tasks/task3.js)
 ---------------------------------
 ##Review of Chapters 1, 2, and 3
 ---------------------------------
@@ -232,3 +232,54 @@ D) Quotes " "
 
 Correct Answer:
 D) Quotes " "
+# Day Two
+
+---
+
+## 4️⃣ Chapter Four: The (if statement)
+The `if` statement is used to execute a block of code **only** if a specific condition is true.
+
+* **Conditional Branching:** This means making a decision based on a certain situation (If X happens.. do Y).
+* **Skipping Code:** If the condition is false, the code inside the curly braces `{}` is completely ignored and not executed.
+* **General Formula:**
+* The condition is written inside parentheses `()`.
+* The process (the code to be executed) is written inside curly braces `{}`.
+* 
+* ⚡ **Interactive Demo:** [Run Chapter 4 Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d7a01-c4c3-758b-84a4-bb4c5ce89ab4)
+
+---
+
+## 5️⃣ Chapter Five: (if... else) and (if... else if) statements
+When we need alternative paths in a program, we use the `else` statement or multiple conditions with `else if`.
+
+### First: The `if... else` statement
+* Provides an alternative path.
+* If the `if` condition is false, the computer automatically executes the code inside the `else` block.
+
+### Second: The `if... else if... else` statement
+* Used to check **multiple conditions** in sequence.
+* The code block of the **first true condition** encountered by the program is executed.
+* The final `else` block is optional and runs only if none of the previous conditions are true.
+
+### Third: Important Operators
+* `=` : **Assignment Operator**, used to assign a value to a variable.
+* `==` : **Equality Operator**, used to compare two values.
+* `>=` : Greater than or equal to.
+* `<=` : Less than or equal to.
+* 
+* ⚡ **Interactive Demo:** [Run Chapter 5 Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d7a05-2ff2-74f6-b410-d5bf5714ae6d)
+---
+
+## 6️⃣ Chapter Six: Logical Operators
+These operators allow us to combine multiple conditions within a single `if` statement to make more complex decisions based on several criteria.
+
+### 1. Logical AND operator (`&&`)
+* Called the **Ampersand**.
+* Requires **all** connected conditions to be `true` for the entire expression to be true.
+* If even one condition fails, the whole expression is considered false.
+
+### 2. Logical OR operator (`||`)
+* Called the **Vertical line** or **Pipe**.
+* The condition is met if **at least one** of the connected conditions is true.
+* The entire expression is true if any of the conditions are satisfied.
+* * ⚡ **Interactive Demo:** [Run Chapter 6 Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d7a06-ef5e-79df-a9a5-685c776a89c9)
