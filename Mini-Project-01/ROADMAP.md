@@ -249,7 +249,6 @@ The `if` statement is used to execute a block of code **only** if a specific con
 *
 * 🔗 **Source Code:** [Link to Demo Explanation 1](https://github.com/Ahmed-2028/Frontend-Mastery-Hub/blob/main/Mini-Project-01/Daily-Tasks/JAVASCRIPT/task4.js)
   
----
 
 ## 5️⃣ Chapter Five: (if... else) and (if... else if) statements
 When we need alternative paths in a program, we use the `else` statement or multiple conditions with `else if`.
@@ -290,3 +289,63 @@ These operators allow us to combine multiple conditions within a single `if` sta
 * * ⚡ **Interactive Demo:** [Run Chapter 6 Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d7a06-ef5e-79df-a9a5-685c776a89c9)
 *
 * 🔗 **Source Code:** [Link to Demo Explanation 1](https://github.com/Ahmed-2028/Frontend-Mastery-Hub/blob/main/Mini-Project-01/Daily-Tasks/JAVASCRIPT/task6.js)
+ # Revision on Chapters 4, 5, and 6
+
+---
+
+## 📝 Practical Essay Tasks
+
+### **Task 1: Basic If Statement**
+**Requirements:**
+1. Declare a variable named `science` and assign the value `100` to it.
+2. If `science` is `100`, display: `"The reward is a cake"`.
+3. Display `"No reward"` if the condition is not met.
+
+🚀 **Interactive Demo:** [Run Quiz 1 Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d7a82-fdd5-7994-9b30-295771f15979)
+
+---
+
+### **Task 2: Validation Program**
+**Requirements:**
+1. Create a program that displays `"Homework"` if the variable `test` is less than or equal to `50`.
+2. Otherwise, display `"No homework"`.
+
+🚀 **Interactive Demo:** [Run Quiz 2 Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d7a87-28fd-7f5c-8771-d06e006783d7)
+
+---
+
+### **Task 3: Multiple Conditions (Grading System)**
+**Requirements:**
+1. Declare a variable named `test` and assign the value `77`.
+2. If `test` equals `100`, display: `"Perfect score"`.
+3. Else if `test` is greater than or equal to `75`, display: `"Pass"`.
+4. If none of the conditions are met, display: `"Make-up exam"`.
+
+🚀 **Interactive Demo:** [Run Quiz 3 Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d7a88-2e60-78af-9683-f096f935c2b6)
+
+---
+
+### **Task 4: Logical Operators Verification**
+**Requirements:**
+* Checking logical conditions and combined operators in action.
+
+🚀 **Interactive Demo:** [Run Quiz 4 Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d7a8a-817c-7f3f-9dff-6de271427ce7)
+
+---
+
+## 🔘 Multiple Choice Questions (MCQ)
+
+| # | Question | Options | Correct Answer |
+|---|----------|---------|----------------|
+| **1** | Which symbol is used to assign a value? | A) `==` <br> B) `&&` <br> C) `=` <br> D) `\|\|` | **C) =** |
+| **2** | To check if two values are equal, we use: | A) `if` <br> B) `==` <br> C) `=` <br> D) `else` | **B) ==** |
+| **3** | The `if` statement executes code only if the condition is: | A) False <br> B) Null <br> C) True <br> D) Empty | **C) True** |
+| **4** | If the `if` condition is false, which block runs as an alternative? | A) `console.log` <br> B) `if else` <br> C) `else` <br> D) `&&` | **C) else** |
+| **5** | Which operator is called the "Ampersand"? | A) `\|\|` <br> B) `&&` <br> C) `==` <br> D) `>=` | **B) &&** |
+| **6** | In an `OR (\|\|)` operation, the expression is true if: | A) All true <br> B) None true <br> C) At least one true <br> D) First is false | **C) At least one true** |
+| **7** | Which is the correct formula for an `if` statement? | A) `if {cond} (proc)` <br> B) `if (cond) {proc}` <br> C) `if (proc) {cond}` <br> D) `if {proc} (cond)` | **B) if (condition) {process}** |
+| **8** | To check multiple conditions in sequence, we use: | A) `else` <br> B) `if... else if... else` <br> C) `\|\|` <br> D) `&&` | **B) if... else if... else** |
+| **9** | The logical operator `&&` returns true only if: | A) Every single condition met <br> B) One met <br> C) All false <br> D) Used with `else` | **A) Every single condition is met** |
+| **10** | What does the `<=` operator mean? | A) Greater than/equal <br> B) Less than/equal <br> C) Not equal <br> D) Equal | **B) Less than or equal to** |
+| **11** | The `\|\|` operator is also known as: | A) Ampersand <br> B) Vertical line / Pipe <br> C) Equality <br> D) Assignment | **B) Vertical line / Pipe** |
+| **12** | If `score = 40`, what will `(score >= 50)` return? | A) true <br> B) false <br> C) undefined <br> D) error | **B) false** |
