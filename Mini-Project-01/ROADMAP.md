@@ -289,4 +289,4 @@ These operators allow us to combine multiple conditions within a single `if` sta
 * The entire expression is true if any of the conditions are satisfied.
 * * ⚡ **Interactive Demo:** [Run Chapter 6 Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d7a06-ef5e-79df-a9a5-685c776a89c9)
 *
-* 🔗 **Source Code:** [Link to Demo Explanation 1](https://github.com/Ahmed-2028/Frontend-Mastery-Hub/new/main/Mini-Project-01/Daily-Tasks/JAVASCRIPT)
+* 🔗 **Source Code:** [Link to Demo Explanation 1](https://github.com/Ahmed-2028/Frontend-Mastery-Hub/blob/main/Mini-Project-01/Daily-Tasks/JAVASCRIPT/task6.js)
