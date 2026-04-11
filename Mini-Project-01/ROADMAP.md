@@ -271,7 +271,7 @@ When we need alternative paths in a program, we use the `else` statement or mult
 * 
 * ⚡ **Interactive Demo:** [Run Chapter 5 Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d7a05-2ff2-74f6-b410-d5bf5714ae6d)
 * 
-* * 🔗 **Source Code:** [Link to Demo Explanation 1](https://github.com/Ahmed-2028/Frontend-Mastery-Hub/new/main/Mini-Project-01/Daily-Tasks/JAVASCRIPT)
+* * 🔗 **Source Code:** [Link to Demo Explanation 1](https://github.com/Ahmed-2028/Frontend-Mastery-Hub/blob/main/Mini-Project-01/Daily-Tasks/JAVASCRIPT/task5.js)
 
 ---
 
