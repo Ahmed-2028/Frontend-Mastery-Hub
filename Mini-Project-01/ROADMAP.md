@@ -41,7 +41,7 @@
 * 💻 **Practical Code Explanation:** The code illustrates the variable lifecycle from declaration using `let`, storing the initial value, and then updating it (Reassignment). It emphasizes the core difference between a variable and a literal string.
 * 🔗 **Source Code:** [View Task 3 Code](https://github.com/Ahmed-2028/Frontend-Mastery-Hub/blob/main/Mini-Project-01/Daily-Tasks/task3.js)
 ---------------------------------
-##Review of Chapters 1, 2, 3
+##Review of Chapters 1, 2, and 3
 ---------------------------------
  Question 1
 
