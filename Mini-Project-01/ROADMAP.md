@@ -332,7 +332,7 @@ The `.length` property is used to return the total number of elements currently 
 
 ⚡ **Interactive Demo:** [Run Chapter 11 Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d7cd9-d73a-7c10-a6e8-8df1829e2c59)
 🔗 **Source Code:** [Link to Demo Explanation 11](https://github.com/Ahmed-2028/Frontend-Mastery-Hub/blob/main/Mini-Project-01/Daily-Tasks/JAVASCRIPT/task11.js)
-# 📚 Comprehensive Revision: Chapters 7 — 11
+ # 📚 Comprehensive Revision: Chapters 7 — 11
 
 ---
 
@@ -478,23 +478,23 @@ The `.length` property is used to return the total number of elements currently 
 
 | # | Question | Options | Correct Answer |
 |---|----------|---------|----------------|
-| **1** | Which part of the `for` loop updates the counter? | A) Initialization <br> B) Condition <br> C) Update | **C) Update** |
-| **2** | What is the result of `Math.floor(7.9)`? | A) 8 <br> B) 7 <br> C) 7.9 | **B) 7** |
-| **3** | `Math.random()` returns a number between 0 and: | A) 1 (exclusive) <br> B) 10 <br> C) 100 | **A) 1 (exclusive)** |
-| **4** | Keyword used to send a value back from a function? | A) send <br> B) output <br> C) return | **C) return** |
-| **5** | What does `typeof "100"` return? | A) number <br> B) string <br> C) object | **B) string** |
-| **6** | Operator for strict equality (value & type)? | A) `==` <br> B) `===` <br> C) `=` | **B) ===** |
-| **7** | To convert string "5" to a number, we use: | A) `String()` <br> B) `Number()` <br> C) `Math.parse()` | **B) Number()** |
-| **8** | Array indexing in JavaScript starts from: | A) 1 <br> B) -1 <br> C) 0 | **C) 0** |
-| **9** | Property that returns the number of items in an array? | A) `.size` <br> B) `.count` <br> C) `.length` | **C) .length** |
-| **10** | What is the output of `Math.max(5, 12, 8)`? | A) 5 <br> B) 12 <br> C) 8 | **B) 12** |
-| **11** | Correct way to define a function? | A) `function name() {}` <br> B) `def name() {}` | **A) function name() {}** |
-| **12** | The result of `10 + "20"` is: | A) 30 <br> B) "1020" <br> C) Error | **B) "1020"** |
-| **13** | To access the 2nd element in `list = [5, 10, 15]`: | A) `list[1]` <br> B) `list[2]` <br> C) `list[0]` | **A) list[1]** |
-| **14** | `Math.round(4.4)` returns: | A) 5 <br> B) 4 <br> C) 4.5 | **B) 4** |
-| **15** | Best loop for a specific number of repetitions? | A) `if` <br> B) `for` <br> C) `function` | **B) for** |
-| **16** | Is `Math` the same as `math` in JS? | A) Yes <br> B) No (Case-sensitive) | **B) No** |
-| **17** | Index of the last element in array `arr`? | A) `arr.length` <br> B) `arr.length - 1` | **B) arr.length - 1** |
-| **18** | Joining two strings together is called: | A) Concatenation <br> B) Division | **A) Concatenation** |
-| **19** | `Number("Hello")` will return: | A) 0 <br> B) NaN | **B) NaN** |
-| **20** | `typeof 25` will output: | A) "string" <br> B) "number" | **B) "number"** |
+| **1** | Which part of the `for` loop updates the counter? | A) Initialization <br> B) Condition <br> C) Update <br> D) Variable Name | **C) Update** |
+| **2** | What is the result of `Math.floor(7.9)`? | A) 8 <br> B) 7 <br> C) 7.9 <br> D) 7.5 | **B) 7** |
+| **3** | `Math.random()` returns a number between 0 and: | A) 1 (exclusive) <br> B) 10 <br> C) 100 <br> D) 0.5 | **A) 1 (exclusive)** |
+| **4** | Keyword used to send a value back from a function? | A) send <br> B) output <br> C) return <br> D) exit | **C) return** |
+| **5** | What does `typeof "100"` return? | A) number <br> B) string <br> C) object <br> D) boolean | **B) string** |
+| **6** | Operator for strict equality (value & type)? | A) `==` <br> B) `===` <br> C) `=` <br> D) `!=` | **B) ===** |
+| **7** | To convert string "5" to a number, we use: | A) `String()` <br> B) `Number()` <br> C) `Math.parse()` <br> D) `Boolean()` | **B) Number()** |
+| **8** | Array indexing in JavaScript starts from: | A) 1 <br> B) -1 <br> C) 0 <br> D) 10 | **C) 0** |
+| **9** | Property that returns the number of items in an array? | A) `.size` <br> B) `.count` <br> C) `.length` <br> D) `.items` | **C) .length** |
+| **10** | What is the output of `Math.max(5, 12, 8)`? | A) 5 <br> B) 12 <br> C) 8 <br> D) 25 | **B) 12** |
+| **11** | Correct way to define a function? | A) `function name() {}` <br> B) `def name() {}` <br> C) `fun name {}` <br> D) `new function {}` | **A) function name() {}** |
+| **12** | The result of `10 + "20"` is: | A) 30 <br> B) "1020" <br> C) Error <br> D) "30" | **B) "1020"** |
+| **13** | To access the 2nd element in `list = [5, 10, 15]`: | A) `list[1]` <br> B) `list[2]` <br> C) `list[0]` <br> D) `list[2nd]` | **A) list[1]** |
+| **14** | `Math.round(4.4)` returns: | A) 5 <br> B) 4 <br> C) 4.5 <br> D) 4.0 | **B) 4** |
+| **15** | Best loop for a specific number of repetitions? | A) `if` <br> B) `for` <br> C) `function` <br> D) `else` | **B) for** |
+| **16** | Is `Math` the same as `math` in JS? | A) Yes <br> B) No (Case-sensitive) <br> C) Sometimes <br> D) Only in strings | **B) No** |
+| **17** | Index of the last element in array `arr`? | A) `arr.length` <br> B) `arr.length - 1` <br> C) 1 <br> D) `arr.last` | **B) arr.length - 1** |
+| **18** | Joining two strings together is called: | A) Concatenation <br> B) Division <br> C) Multiplication <br> D) Subtraction | **A) Concatenation** |
+| **19** | `Number("Hello")` will return: | A) 0 <br> B) NaN <br> C) Error <br> D) undefined | **B) NaN** |
+| **20** | `typeof 25` will output: | A) "string" <br> B) "number" <br> C) "boolean" <br> D) "object" | **B) "number"** |
