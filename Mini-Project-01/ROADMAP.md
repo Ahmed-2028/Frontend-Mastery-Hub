@@ -332,3 +332,169 @@ The `.length` property is used to return the total number of elements currently 
 
 ⚡ **Interactive Demo:** [Run Chapter 11 Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d7cd9-d73a-7c10-a6e8-8df1829e2c59)
 🔗 **Source Code:** [Link to Demo Explanation 11](https://github.com/Ahmed-2028/Frontend-Mastery-Hub/blob/main/Mini-Project-01/Daily-Tasks/JAVASCRIPT/task11.js)
+# 📚 Comprehensive Revision: Chapters 7 — 11
+
+---
+
+## 💻 Practical Programming Tasks (15 Questions)
+
+### **Task 1: Logical Conditions (AND)**
+**Requirements:**
+1. Declare a variable `age = 15`.
+2. Declare a variable `numberOfPeople = 7`.
+3. If `age <= 18` AND `numberOfPeople >= 5`, print: `"Student group discount"`.
+
+🚀 **Interactive Demo:** [Run Quiz 1 Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d80a1-77f8-7c0c-b063-f6ec24f9d952)
+
+---
+
+### **Task 2: Logical Conditions (OR)**
+**Requirements:**
+1. Declare a variable `age = 15`.
+2. If `age <= 15` OR `age >= 70`, print: `"Discounts available"`.
+
+🚀 **Interactive Demo:** [Run Quiz 2 Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d80a2-166b-712e-9673-b0d0c5db6673)
+
+---
+
+### **Task 3: Efficient Looping (10 Times)**
+**Requirements:**
+1. Print `"Good morning"` ten times to the console.
+2. **Constraint:** The program must be exactly **3 lines**.
+3. Use variable `i` and the increment operator.
+
+🚀 **Interactive Demo:** [Run Quiz 3 Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d80a3-d87c-773b-9c21-899a92dcbf9b)
+
+---
+
+### **Task 4: Efficient Looping (5 Times)**
+**Requirements:**
+1. Print `"Go for it"` five times to the console.
+2. **Constraint:** The program must be exactly **3 lines**.
+3. Use variable `i` and the increment operator.
+
+🚀 **Interactive Demo:** [Run Quiz 4 Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d80a4-d4a1-7074-b084-2cbb7e4f681c)
+
+---
+
+### **Task 5: Basic Rounding**
+**Requirements:**
+1. Use `Math.round()` to round the value `5.7` and output it to the console.
+
+🚀 **Interactive Demo:** [Run Quiz 5 Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d80a5-d3bb-7237-b335-e1914254f0e2)
+
+---
+
+### **Task 6: Rounding vs. Flooring**
+**Requirements:**
+1. Pass `5.5` to `Math.round()` and output the result.
+2. Pass `5.5` to `Math.floor()` and output the result.
+
+🚀 **Interactive Demo:** [Run Quiz 6 Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d80a7-13b8-70e2-92d4-c8f22e9f1609)
+
+---
+
+### **Task 7: Min/Max Values**
+**Requirements:**
+1. Pass `10` and `20` to `Math.max()` and output the result.
+2. Pass `10` and `20` to `Math.min()` and output the result.
+
+🚀 **Interactive Demo:** [Run Quiz 7 Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d80a8-30a4-7d7b-8bbc-299894b5ed3e)
+
+---
+
+### **Task 8: Generating Randomness**
+**Requirements:**
+1. Call `Math.random()` and output the result to the console.
+
+🚀 **Interactive Demo:** [Run Quiz 8 Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d80a9-1386-74ec-a750-c8d753bdf4c4)
+
+---
+
+### **Task 9: Custom Function (Math Logic)**
+**Requirements:**
+1. Create a function named `split4` with a parameter `total`.
+2. Declare a variable `result` assigned to `total / 4`.
+3. Return the `result`.
+4. Call the function with `1200` and output the result.
+
+🚀 **Interactive Demo:** [Run Quiz 9 Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d80aa-c8fb-730b-92b1-502586b157d6)
+
+---
+
+### **Task 10: Type Checking**
+**Requirements:**
+1. Output the `typeof` for the value `500`.
+2. Output the `typeof` for the string `"500codycoins"`.
+
+🚀 **Interactive Demo:** [Run Quiz 10 Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d80ab-d57d-7934-97f2-716fada3abae)
+
+---
+
+### **Task 11: Strict Equality**
+**Requirements:**
+1. Output the result of a strict comparison between `1` (number) and `"1"` (string).
+
+🚀 **Interactive Demo:** [Run Quiz 11 Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d80ac-6b9b-7eb5-be81-89f081cd0439)
+
+---
+
+### **Task 12: Data Conversion**
+**Requirements:**
+1. Convert the string `"5"` to a number using `Number()` and output it.
+
+🚀 **Interactive Demo:** [Run Quiz 12 Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d80af-6c50-72ca-a275-b37b45749652)
+
+---
+
+### **Task 13: Array Indexing**
+**Requirements:**
+1. Create an array `tempList = [10, 15, 13, 16, 14, 12, 17]`.
+2. Access and output the **third** element (index 2).
+
+🚀 **Interactive Demo:** [Run Quiz 13 Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d80b0-3c04-7300-acd0-30843d5ad52d)
+
+---
+
+### **Task 14: Array Accumulation & Average**
+**Requirements:**
+1. Create a variable `total = 0`.
+2. Use a loop to add every element of `tempList` to `total`.
+3. Output the result of `total / 6` (The average).
+
+🚀 **Interactive Demo:** [Run Quiz 14 Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d80b0-fd8e-7503-ab15-7f7460071ddb)
+
+---
+
+### **Task 15: Measuring Arrays**
+**Requirements:**
+1. Output the length (number of elements) of the `tempList` array using `.length`.
+
+🚀 **Interactive Demo:** [Run Quiz 15 Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d80b2-5d6c-769e-821e-165b021cd652)
+
+---
+
+## 🔘 Multiple Choice Questions (20 Questions)
+
+| # | Question | Options | Correct Answer |
+|---|----------|---------|----------------|
+| **1** | Which part of the `for` loop updates the counter? | A) Initialization <br> B) Condition <br> C) Update | **C) Update** |
+| **2** | What is the result of `Math.floor(7.9)`? | A) 8 <br> B) 7 <br> C) 7.9 | **B) 7** |
+| **3** | `Math.random()` returns a number between 0 and: | A) 1 (exclusive) <br> B) 10 <br> C) 100 | **A) 1 (exclusive)** |
+| **4** | Keyword used to send a value back from a function? | A) send <br> B) output <br> C) return | **C) return** |
+| **5** | What does `typeof "100"` return? | A) number <br> B) string <br> C) object | **B) string** |
+| **6** | Operator for strict equality (value & type)? | A) `==` <br> B) `===` <br> C) `=` | **B) ===** |
+| **7** | To convert string "5" to a number, we use: | A) `String()` <br> B) `Number()` <br> C) `Math.parse()` | **B) Number()** |
+| **8** | Array indexing in JavaScript starts from: | A) 1 <br> B) -1 <br> C) 0 | **C) 0** |
+| **9** | Property that returns the number of items in an array? | A) `.size` <br> B) `.count` <br> C) `.length` | **C) .length** |
+| **10** | What is the output of `Math.max(5, 12, 8)`? | A) 5 <br> B) 12 <br> C) 8 | **B) 12** |
+| **11** | Correct way to define a function? | A) `function name() {}` <br> B) `def name() {}` | **A) function name() {}** |
+| **12** | The result of `10 + "20"` is: | A) 30 <br> B) "1020" <br> C) Error | **B) "1020"** |
+| **13** | To access the 2nd element in `list = [5, 10, 15]`: | A) `list[1]` <br> B) `list[2]` <br> C) `list[0]` | **A) list[1]** |
+| **14** | `Math.round(4.4)` returns: | A) 5 <br> B) 4 <br> C) 4.5 | **B) 4** |
+| **15** | Best loop for a specific number of repetitions? | A) `if` <br> B) `for` <br> C) `function` | **B) for** |
+| **16** | Is `Math` the same as `math` in JS? | A) Yes <br> B) No (Case-sensitive) | **B) No** |
+| **17** | Index of the last element in array `arr`? | A) `arr.length` <br> B) `arr.length - 1` | **B) arr.length - 1** |
+| **18** | Joining two strings together is called: | A) Concatenation <br> B) Division | **A) Concatenation** |
+| **19** | `Number("Hello")` will return: | A) 0 <br> B) NaN | **B) NaN** |
+| **20** | `typeof 25` will output: | A) "string" <br> B) "number" | **B) "number"** |
