@@ -1,11 +1,4 @@
- # 🚀 Day 01 - Frontend Mastery Journey
-
-## 📘 Chapter 1: Introduction
-> Status: **Completed** ✅
-* 📜 **Concept (Detailed Curriculum):**
-  1. **What is Programming? [1]:** Programming allows you to create games, websites, apps, etc.
-  2. **What is Programming? [2]:** Programming is the process of writing code that a computer follows to perform specific tasks.
-  3. **Front-end Development:** It consists of three main languages:
+  
      * **HTML:** Used to structure the website content.
      * **CSS:** Used to design and style the website layout.
      * **JavaScript:** Used to add interactivity and life to the website.
