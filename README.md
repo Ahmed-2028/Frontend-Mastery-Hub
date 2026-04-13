@@ -61,6 +61,3 @@
 
 ---
 
-## 📊 The "Golden Five" Review System
-I perform a comprehensive review every 5 modules to ensure 100% retention.
-*"Execution over Procrastination (80/20 Rule)"*
