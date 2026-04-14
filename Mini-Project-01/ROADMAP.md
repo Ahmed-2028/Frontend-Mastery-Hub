@@ -1,17 +1,4 @@
-  # 🚀 Day 01 - Frontend Mastery Journey
-
-## 📘 Chapter 1: Introduction
-> Status: **Completed** ✅
-* 📜 **Concept (Detailed Curriculum):**
-  1. **What is Programming? [1]:** Programming allows you to create games, websites, apps, etc.
-  2. **What is Programming? [2]:** Programming is the process of writing code that a computer follows to perform specific tasks.
-  3. **Front-end Development:** It consists of three main languages:
-     * **HTML:** Used to structure the website content.
-     * **CSS:** Used to design and style the website layout.
-     * **JavaScript:** Used to add interactivity and life to the website.
-  4. **How to use the Editor:** We use a code editor to write our programs and organize our files.
-  5. **Console:** The console is a tool used by developers to test code, debug errors, and view results.
-  6. **Comments:** The `//` symbol is used to write comments; these are notes left by the programmer for themselves or others, and they are not executed by the program (Comments are outside the program to leave notes).
+.
 * ⚡ **Interactive Demo:** [Run Chapter 1 Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d75ad-c9a1-74da-9785-7916ba9acd2e)
 * 💻 **Practical Code Explanation:** The code demonstrates the `alert()` function, which displays a pop-up window to the user. It is the fundamental way to start interacting with the user in JavaScript.
 * 🔗 **Source Code:** [Link to Demo Explanation 1](./Daily-Tasks/JAVASCRIPT/task1.js)
