@@ -646,3 +646,10 @@ Build a function that takes two parameters (min, max) and returns a **Random Int
     * CSS: `.highlight { color: green; font-weight: bold; }`
 
 ### 3. CSS Comments
+* Used to leave notes in the code.
+* **Syntax:** Starts with `/*` and ends with `*/`.
+* **Example:** `/* This is a CSS comment */`
+
+---
+**Course by: Mr. Ahmed Hamed**
+**Modified for Day 5 Syllabus**
