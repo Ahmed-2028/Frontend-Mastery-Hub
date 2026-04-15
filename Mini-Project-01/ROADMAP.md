@@ -585,4 +585,71 @@ Build a function that takes two parameters (min, max) and returns a **Random Int
 
 ---
 **Done with passion by: Ahmed Mahmoud 🚀**
-**Location: Alexandria, Egypt 🌊**
+**Location: Alexandria, Egypt 🌊** 
+# Day 5: Comprehensive Guide to HTML & CSS Fundamentals
+
+---
+
+## Part 1: HTML Structure - Chapter 12
+
+### 1. What is HTML?
+* **Definition:** HyperText Markup Language.
+* **Function:** The standard language for creating the structure of web pages.
+* **Nature:** It's a "Markup Language," not a programming language; it tells the browser how to display content.
+
+### 2. Basic Text Tags
+* **Headings:** Range from `<h1>` (Largest) to `<h6>` (Smallest).
+* **Paragraphs:** Defined with the `<p>` tag.
+* **Quick Formatting:**
+    * `<b>` or `<strong>`: Bold text.
+    * `<i>` or `<em>`: Italic text.
+    * `<u>`: Underlined text.
+    * `<br>`: Line break (Self-closing).
+    * `<hr>`: Horizontal rule/separator (Self-closing).
+
+### 3. Lists, Images, and Comments
+* **Lists:** * Ordered `<ol>` (1, 2, 3).
+    * Unordered `<ul>` (Bullets).
+    * List Items `<li>` (Inside the list).
+* **Images:** Uses the `<img>` tag with attributes:
+    * `src`: Image path.
+    * `alt`: Alternative text.
+* **Comments:** Written exactly like this:
+  ---
+
+## Part 2: Styling with CSS - Chapter 13
+
+### 1. What is CSS?
+* **Definition:** Cascading Style Sheets.
+* **Function:** Used to style and layout web pages (Colors, Fonts, Spacing).
+
+### 2. Colors and Font Weight
+* **Colors:** Can be defined by Name (`red`), Hex (`#FF5733`), or RGB (`rgb(0,0,255)`).
+* **Font Weight:** * `normal`: Default thickness.
+    * `bold`: Thick text.
+    * Numbers: 100 to 900 (700 is equivalent to bold).
+
+---
+
+## Part 3: Advanced Styling - Chapter 14
+
+### 1. Font Size
+* Property used to set text size, usually in pixels (px).
+* **Example:** `h2 { font-size: 24px; }`
+
+### 2. Classes - Smart Targeting
+* **Purpose:** Target specific elements without affecting others.
+* **In HTML:** Add `class="class_name"` to the tag.
+* **In CSS:** Use a dot `.` before the class name.
+* **Example:**
+    * HTML: `<p class="highlight">Targeted Text</p>`
+    * CSS: `.highlight { color: green; font-weight: bold; }`
+
+### 3. CSS Comments
+* Used to leave notes in the code.
+* **Syntax:** Starts with `/*` and ends with `*/`.
+* **Example:** `/* This is a CSS comment */`
+
+---
+**Course by: Mr. Ahmed Hamed**
+**Modified for Day 5 Syllabus**
