@@ -1,15 +1,55 @@
-/* Styling using different color formats and font weights */
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Chapter 13: CSS Colors Mastery</title>
+    <style>
+        /* CHAPTER 13: WORKING WITH COLORS */
 
-header h1 {
-    color: midnightblue; /* Named color */
-}
+        body {
+            /* Using Color Names for background */
+            background-color: lightgrey;
+            font-family: Arial, sans-serif;
+        }
 
-article p {
-    color: #2d2d2d; /* Hex-based color for text */
-    font-weight: 400; /* Standard font thickness */
-}
+        .color-name {
+            /* Method 1: Color Names */
+            color: darkblue;
+        }
 
-aside ul {
-    color: rgb(34, 139, 34); /* RGB-based color for lists */
-    font-weight: 700; /* Bold font thickness */
-}
+        .color-hex {
+            /* Method 2: Hexadecimal Codes (#RRGGBB) */
+            color: #2ecc71; /* Emerald Green */
+        }
+
+        .color-rgb {
+            /* Method 3: RGB Values (Red, Green, Blue) */
+            color: rgb(231, 76, 60); /* Alizarin Red */
+        }
+
+        .box-model {
+            /* Setting background using HEX */
+            background-color: #2c3e50;
+            color: white;
+            padding: 20px;
+            margin-top: 10px;
+        }
+
+        /* CSS Comment: This chapter is all about color representation */
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1 class="color-name">Chapter 13: Color Systems</h1>
+    </header>
+
+    <main>
+        <section class="box-model">
+            <p class="color-hex">This text uses HEX color code.</p>
+            <p class="color-rgb">This text uses RGB color values.</p>
+        </section>
+    </main>
+
+</body>
+</html>
