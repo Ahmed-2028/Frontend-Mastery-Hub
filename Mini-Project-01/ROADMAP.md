@@ -616,7 +616,7 @@ Build a function that takes two parameters (min, max) and returns a **Random Int
     * `alt`: Alternative text.
 * **Comments:** Written exactly like this:
 * * ⚡ **Interactive Demo:** [Run Chapter 12 Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d969a-a9d1-75cb-8fb6-c1804574df65)
-  * 🔗 **Source Code:** [Link to Demo Explanation 12]()
+  * 🔗 **Source Code:** [Link to Demo Explanation 12](Mini-Project-01/Daily-Tasks/HTML-CSS/task12.html)
 
   ---
 
