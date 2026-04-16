@@ -631,7 +631,7 @@ Build a function that takes two parameters (min, max) and returns a **Random Int
 * **Font Weight:** * `normal`: Default thickness.
     * `bold`: Thick text.
     * Numbers: 100 to 900 (700 is equivalent to bold).
-* ⚡ **Interactive Demo:** [Run Chapter 13 Live]()
+* ⚡ **Interactive Demo:** [Run Chapter 13 Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d96bd-8a99-7143-975a-9319fbbb550f)
 * 🔗 **Source Code:** [Link to Demo Explanation 13]()
 
 ---
