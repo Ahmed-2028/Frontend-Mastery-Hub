@@ -659,3 +659,60 @@ Build a function that takes two parameters (min, max) and returns a **Random Int
 * 🔗 **Source Code:** [Link to Demo Explanation 14](Mini-Project-01/Daily-Tasks/HTML-CSS/task14.css)
 ---
 
+# 📝 Review of Chapters 12, 13, and 14
+
+---
+
+## 🏗️ Part 1: Practical Questions
+
+### Question 1 (Semantic Structure)
+1. Create a semantic layout using HTML5 tags.
+2. Include a `header` with a main title.
+3. Add a `main` section containing an `article` for the content and an `aside` for links.
+
+* **Code Logic:** Using `<header>`, `<main>`, `<article>`, and `<aside>`.
+* 🚀 **Interactive Demo:** [Run HTML Structure Live]()
+
+---
+
+### Question 2 (Color Mastery)
+Create a program that applies colors using three different methods:
+1. Set the `header` text color to `red` using a **Color Name**.
+2. Set the `article` text color to `#2d2d2d` using a **Hex Code**.
+3. Set the `aside` text color to `rgb(34, 139, 34)` using **RGB Values**.
+
+* **Result:** Multi-system color implementation.
+* 🚀 **Interactive Demo:** [Run Color Demo Live]()
+
+---
+
+### Question 3 (Advanced Selectors & Weights)
+Create your CSS program as follows:
+1. Target all `p` elements that are **inside** an `article` (Descendant Selector).
+2. Set their `font-weight` to `400` (Normal).
+3. Target all `li` elements inside an `aside` and set their `font-weight` to `700` (Bold).
+
+* **Concept:** Target specificity and font thickness.
+* 🚀 **Interactive Demo:** [Run Selector Practice Live]()
+
+---
+
+## 🧠 Part 2: Multiple Choice Questions (MCQ)
+
+| # | Question | Options | Correct Answer |
+|---|----------|---------|----------------|
+| **1** | Which tag is used to define the main content that is unique to the document? | A) `<header>` <br> B) `<aside>` <br> C) `<main>` <br> D) `<footer>` | **C) <main>** |
+| **2** | The `<article>` tag is best used for: | A) Sidebar links <br> B) Independent, self-contained content <br> C) Page navigation <br> D) Website logos | **B) Independent content** |
+| **3** | Which tag represents content indirectly related to the main content (like a sidebar)? | A) `<section>` <br> B) `<article>` <br> C) `<nav>` <br> D) `<aside>` | **D) <aside>** |
+| **4** | What is the Hexadecimal code for the color "Black"? | A) `#FFFFFF` <br> B) `#000000` <br> C) `#FF0000` <br> D) `#123456` | **B) #000000** |
+| **5** | In `rgb(255, 0, 0)`, which color is at its maximum intensity? | A) Green <br> B) Blue <br> C) Red <br> D) Yellow | **C) Red** |
+| **6** | Which color system uses a combination of 6 letters or numbers? | A) RGB <br> B) Names <br> C) Hexadecimal <br> D) HSL | **C) Hexadecimal** |
+| **7** | To target a `span` only when it is inside a `div`, we write: | A) `div+span` <br> B) `div span` <br> C) `div.span` <br> D) `span > div` | **B) div span** |
+| **8** | Which `font-weight` value represents a standard "Bold" text? | A) 100 <br> B) 400 <br> C) 700 <br> D) 900 | **C) 700** |
+| **9** | What does `font-weight: 400;` stand for? | A) Light <br> B) Normal <br> C) Bold <br> D) Italic | **B) Normal** |
+| **10** | Which property is used to change the background color of an element? | A) `color` <br> B) `background-color` <br> C) `bgcolor` <br> D) `fill-color` | **B) background-color** |
+| **11** | CSS Selectors allow us to: | A) Create databases <br> B) Target specific HTML elements for styling <br> C) Write logic loops <br> D) Change the file name | **B) Target elements** |
+| **12** | Semantic HTML tags are important because: | A) They make the code faster <br> B) They provide meaning to the structure for SEO <br> C) They are mandatory for CSS to work <br> D) They automatically color the text | **B) Provide meaning (SEO)** |
+
+---
+**Done by Ahmed - Frontend Mastery Journey** 🚀
