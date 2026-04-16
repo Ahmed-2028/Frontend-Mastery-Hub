@@ -615,6 +615,9 @@ Build a function that takes two parameters (min, max) and returns a **Random Int
     * `src`: Image path.
     * `alt`: Alternative text.
 * **Comments:** Written exactly like this:
+* * ⚡ **Interactive Demo:** [Run Chapter 12 Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d969a-a9d1-75cb-8fb6-c1804574df65)
+  * 🔗 **Source Code:** [Link to Demo Explanation 12]()
+
   ---
 
 ## Part 2: Styling with CSS - Chapter 13
@@ -628,6 +631,8 @@ Build a function that takes two parameters (min, max) and returns a **Random Int
 * **Font Weight:** * `normal`: Default thickness.
     * `bold`: Thick text.
     * Numbers: 100 to 900 (700 is equivalent to bold).
+* ⚡ **Interactive Demo:** [Run Chapter 13 Live]()
+* 🔗 **Source Code:** [Link to Demo Explanation 13]()
 
 ---
 
@@ -649,6 +654,8 @@ Build a function that takes two parameters (min, max) and returns a **Random Int
 * Used to leave notes in the code.
 * **Syntax:** Starts with `/*` and ends with `*/`.
 * **Example:** `/* This is a CSS comment */`
-
+* 
+⚡ **Interactive Demo:** [Run Chapter 14 Live]()
+* 🔗 **Source Code:** [Link to Demo Explanation 14]()
 ---
 
