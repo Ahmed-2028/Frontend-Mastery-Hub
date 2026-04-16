@@ -1,0 +1,15 @@
+/* Styling using different color formats and font weights */
+
+header h1 {
+    color: midnightblue; /* Named color */
+}
+
+article p {
+    color: #2d2d2d; /* Hex-based color for text */
+    font-weight: 400; /* Standard font thickness */
+}
+
+aside ul {
+    color: rgb(34, 139, 34); /* RGB-based color for lists */
+    font-weight: 700; /* Bold font thickness */
+}
