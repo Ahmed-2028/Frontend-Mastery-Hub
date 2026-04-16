@@ -671,7 +671,7 @@ Build a function that takes two parameters (min, max) and returns a **Random Int
 3. Add a `main` section containing an `article` for the content and an `aside` for links.
 
 * **Code Logic:** Using `<header>`, `<main>`, `<article>`, and `<aside>`.
-* 🚀 **Interactive Demo:** [Run HTML Structure Live]()
+* 🚀 **Interactive Demo:** [Run HTML Structure Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d9732-100d-755a-b4e5-68709e85406d)
 
 ---
 
@@ -682,7 +682,7 @@ Create a program that applies colors using three different methods:
 3. Set the `aside` text color to `rgb(34, 139, 34)` using **RGB Values**.
 
 * **Result:** Multi-system color implementation.
-* 🚀 **Interactive Demo:** [Run Color Demo Live]()
+* 🚀 **Interactive Demo:** [Run Color Demo Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d9734-beb9-78eb-9d82-5cf23e456a40)
 
 ---
 
@@ -693,7 +693,7 @@ Create your CSS program as follows:
 3. Target all `li` elements inside an `aside` and set their `font-weight` to `700` (Bold).
 
 * **Concept:** Target specificity and font thickness.
-* 🚀 **Interactive Demo:** [Run Selector Practice Live]()
+* 🚀 **Interactive Demo:** [Run Selector Practice Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d9737-3e94-7557-bb2e-cd2f49c38bf0)
 
 ---
 
