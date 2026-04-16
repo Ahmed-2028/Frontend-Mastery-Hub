@@ -651,5 +651,4 @@ Build a function that takes two parameters (min, max) and returns a **Random Int
 * **Example:** `/* This is a CSS comment */`
 
 ---
-**Course by: Mr. Ahmed Hamed**
-**Modified for Day 5 Syllabus**
+
