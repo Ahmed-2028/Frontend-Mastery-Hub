@@ -655,7 +655,7 @@ Build a function that takes two parameters (min, max) and returns a **Random Int
 * **Syntax:** Starts with `/*` and ends with `*/`.
 * **Example:** `/* This is a CSS comment */`
 * 
-⚡ **Interactive Demo:** [Run Chapter 14 Live]()
+⚡ **Interactive Demo:** [Run Chapter 14 Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d96c6-8ef3-71ed-a35f-375d168b1ac3)
 * 🔗 **Source Code:** [Link to Demo Explanation 14]()
 ---
 
