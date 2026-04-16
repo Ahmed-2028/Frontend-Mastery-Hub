@@ -632,7 +632,7 @@ Build a function that takes two parameters (min, max) and returns a **Random Int
     * `bold`: Thick text.
     * Numbers: 100 to 900 (700 is equivalent to bold).
 * ⚡ **Interactive Demo:** [Run Chapter 13 Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d96bd-8a99-7143-975a-9319fbbb550f)
-* 🔗 **Source Code:** [Link to Demo Explanation 13]()
+* 🔗 **Source Code:** [Link to Demo Explanation 13](Mini-Project-01/Daily-Tasks/HTML-CSS/task13.css)
 
 ---
 
@@ -656,6 +656,6 @@ Build a function that takes two parameters (min, max) and returns a **Random Int
 * **Example:** `/* This is a CSS comment */`
 * 
 ⚡ **Interactive Demo:** [Run Chapter 14 Live](https://codepen.io/editor/Mohamed-Mahmoued-the-bold/pen/019d96c6-8ef3-71ed-a35f-375d168b1ac3)
-* 🔗 **Source Code:** [Link to Demo Explanation 14]()
+* 🔗 **Source Code:** [Link to Demo Explanation 14](Mini-Project-01/Daily-Tasks/HTML-CSS/task14.css)
 ---
 
