@@ -2,66 +2,68 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Chapter 14: Documentation & Practice</title>
-    
+    <title>Chapter 14: Professional Selectors</title>
     <style>
-        /* CHAPTER 14: ADVANCED STYLING WITH CLASSES */
+        /* CHAPTER 14: SELECTORS AND FONT WEIGHTS */
 
-        /* 1. Class Selector: Using a dot (.) before the name to define a class */
-        .big-text {
-            /* Property: Setting the font size in pixels (px) */
-            font-size: 50px;
-            /* Property: Setting the text color */
-            color: midnightblue;
-            /* Property: Setting the font thickness (900 is Black/Boldest) */
-            font-weight: 900;
-        }
-        
-        /* 2. Class for standard paragraphs and readability */
-        .normal-text {
-            font-size: 18px;
-            color: #333333;
-            /* Property: Setting the space between lines for better reading */
-            line-height: 1.6;
+        /* General layout styling */
+        body {
+            background-color: #0f172a; /* Dark Blue */
+            color: #f1f5f9;
+            font-family: 'Segoe UI', sans-serif;
+            padding: 20px;
         }
 
-        /* 3. Class for highlighting a specific part of the text */
-        .highlight {
-            /* Property: Changing the background color */
-            background-color: #ffff00;
-            font-weight: bold;
-            padding: 2px 5px;
+        /* Descendant Selector: Target H1 specifically inside Header */
+        header h1 {
+            color: #ff4d4d;            /* Vibrant Red */
+            background-color: #000000; /* Pure Black */
+            padding: 20px;
+            text-align: center;
+            border-radius: 8px;
         }
 
-        /* 4. Class for very small font sizes used in notes */
-        .small-note {
-            font-size: 12px;
-            color: #7f8c8d;
+        /* Target P inside Article */
+        article p {
+            color: #cbd5e1;
+            /* Font Weight: 400 is normal */
+            font-weight: 400;
+            font-size: 1.1rem;
+            border-left: 4px solid #ff4d4d;
+            padding-left: 15px;
         }
 
-        /* CSS Comment: This is how we write notes in CSS */
+        /* Target UL inside Aside */
+        aside ul {
+            /* Font Weight: 700 is bold */
+            font-weight: 700;
+            color: #4ade80; /* Neon Green */
+            list-style-type: "✔ ";
+        }
+
+        /* CSS Comment: Chapter 14 focuses on nesting and specific weights */
     </style>
 </head>
 <body>
 
     <header>
-        <h1 class="big-text">Mastering Chapter 14</h1>
+        <h1>Chapter 14: Mastering Selectors</h1>
     </header>
 
     <main>
-        <p class="normal-text">
-            Using <span class="highlight">Classes</span> is the core of modern CSS. 
-            It allows us to target specific elements independently.
-        </p>
+        <article>
+            <p>In this chapter, we learned how to target nested elements and control font weights effectively.</p>
+        </article>
 
-        <p class="normal-text">
-            This paragraph has the same style as the one above because it shares the same class name.
-        </p>
-
-        <p class="small-note">
-            Note: All styling in this document is applied via CSS classes.
-        </p>
+        <aside>
+            <h3>Key Takeaways:</h3>
+            <ul>
+                <li>Descendant Selectors (e.g., article p)</li>
+                <li>Font Weights (400 vs 700)</li>
+                <li>Semantic Layouts</li>
+            </ul>
+        </aside>
     </main>
 
-    </body>
+</body>
 </html>
